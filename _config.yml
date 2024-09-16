@@ -1,7 +1,7 @@
 title: Stanislao Zompì
 url: "https://stanislao92.github.io"
 baseurl: "/researcher"
-remote_theme: ankitsultana/researcher@gem
+theme: jekyll-theme-minimal
 
 markdown: kramdown
 
