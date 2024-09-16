@@ -2,44 +2,20 @@
 layout: default
 ---
 
-## About Me
+## About
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="headshot.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+I'm a postdoctoral researcher in the [Department of Linguistics](https://www.uni-potsdam.de/en/ling/index) of the University of Potsdam and a member of the [Potsdam Morpho-Syntax Lab](https://sites.google.com/view/potsdam-msl/home). 
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+I got my PhD from MIT in 2023.
 
-## Research Interest
+My main research interests are in syntax and morphology⁠.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+## My name
 
-## Publications
+It's pronounced [stanizˈlao dzomˈpi] and spelled with a grave accent on the final *i*. (I myself have been inconsistent in this regard; now I'm trying to fix that.)
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+## News
 
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+* I will be at NELS 55 in October to present some collaborative work on the PCC and polite pronouns with [Luke Adamson](https://lukejamesadamson.wixsite.com/linguistics).

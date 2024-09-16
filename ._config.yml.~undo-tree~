@@ -1,0 +1,40 @@
+(undo-tree-save-format-version . 1)
+"a56950bafc7a361f10176b82a5ed187847af46bc"
+[nil nil nil nil (26344 28010 241030 0) 0 nil]
+([nil nil (("Resume" . -348) (undo-tree-id37 . -6) (undo-tree-id38 . -2) (undo-tree-id39 . -2) 354 (t 26344 26586 584868 491000)) nil (26344 28010 241029 0) 0 nil])
+([nil nil ((348 . 350)) nil (26344 28010 241024 0) 0 nil])
+([nil nil (("resume" . -362) (undo-tree-id35 . -6) (undo-tree-id36 . -3) 368) nil (26344 28010 241023 0) 0 nil])
+([nil nil ((362 . 369)) nil (26344 28010 241019 0) 0 nil])
+([nil nil (("Contact" . -385) (undo-tree-id34 . -7) 392) nil (26344 28010 241018 0) 0 nil])
+([nil nil ((385 . 393)) nil (26344 28010 241016 0) 0 nil])
+([nil nil (("contact" . -405) (undo-tree-id32 . -7) (undo-tree-id33 . -7) 412) nil (26344 28010 241014 0) 0 nil])
+([nil nil ((405 . 413)) nil (26344 28010 241011 0) 0 nil])
+([nil nil (("Researcher" . -8) (undo-tree-id31 . -10) 18) nil (26344 28010 241010 0) 0 nil])
+([nil nil ((8 . 26)) nil (26344 28010 241007 0) 0 nil])
+([nil nil (("i" . -22) (undo-tree-id27 . -1) ("i" . -23) (undo-tree-id28 . -1) ("i" . -24) (undo-tree-id29 . -1) ("1" . -25) (undo-tree-id30 . -1) 26) nil (26344 28010 241006 0) 0 nil])
+([nil nil ((22 . 24)) nil (26344 28010 241000 0) 0 nil])
+([nil nil (("u" . -22) (undo-tree-id25 . -1) ("i" . -23) (undo-tree-id26 . -1) 24) nil (26344 28010 240998 0) 0 nil])
+([nil nil ((22 . 25)) nil (26344 28010 240995 0) 0 nil])
+([nil nil (("i" . -22) (undo-tree-id22 . -1) ("i" . -23) (undo-tree-id23 . -1) ("i" . -24) (undo-tree-id24 . -1) 25) nil (26344 28010 240993 0) 0 nil])
+([nil nil ((22 . 23)) nil (26344 28010 240988 0) 0 nil])
+([nil nil (("ankitsultana.com" . -38) (undo-tree-id21 . -16) 54) nil (26344 28010 240987 0) 0 nil])
+([nil nil ((38 . 47)) nil (26344 28010 240984 0) 0 nil])
+([nil nil ((47 . 55)) nil (26344 28010 240983 0) 0 nil])
+([nil nil (("b" . -53) (undo-tree-id19 . -1) ("u" . -54) (undo-tree-id20 . -1) 55) nil (26344 28010 240982 0) 0 nil])
+([nil nil ((53 . 59)) nil (26344 28010 240978 0) 0 nil])
+([nil nil (("researcher" . -72) (undo-tree-id18 . -10) 82) nil (26344 28010 240977 0) 0 nil])
+([nil nil ((72 . 75)) nil (26344 28010 240975 0) 0 nil])
+([nil nil (("e" . -74) (undo-tree-id17 . -1) 75) nil (26344 28010 240973 0) 0 nil])
+([nil nil ((74 . 76)) nil (26344 28010 240971 0) 0 nil])
+([nil nil (("researcher" . -329) (undo-tree-id16 . -10) 339) nil (26344 28010 240970 0) 0 nil])
+([nil nil ((329 . 333)) nil (26344 28010 241102 0) 0 nil])
+([nil nil (("footer_url: \"https://github.com/ankitsultana\"
+footer_text: \"Page design by Ankit Sultana\"
+" . -156) (undo-tree-id41 . -90) (undo-tree-id42 . -54) (undo-tree-id43 . -54) (undo-tree-id44 . -54) (undo-tree-id45 . -54) (undo-tree-id46 . -54) (undo-tree-id47 . -57) (undo-tree-id48 . -57) (undo-tree-id49 . -53) (undo-tree-id50 . -57) (undo-tree-id51 . -57) (undo-tree-id52 . -90) (undo-tree-id53 . -90) (undo-tree-id54 . -53) (undo-tree-id55 . -90) (undo-tree-id56 . -90) (undo-tree-id57 . -46) (undo-tree-id58 . -6) (undo-tree-id59 . -6) (undo-tree-id60 . -6) (undo-tree-id61 . -6) (undo-tree-id62 . -6) (undo-tree-id63 . -10) (undo-tree-id64 . -10) (undo-tree-id65 . -46) (undo-tree-id66 . -10) (undo-tree-id67 . -10) (undo-tree-id68 . -46) (undo-tree-id69 . -46) (undo-tree-id70 . -90) (undo-tree-id71 . -90) 246) nil (26344 28014 508407 0) 0 nil] [nil nil (("footer_text: \"Page design by Ankit Sultana\"
+" . -202) (undo-tree-id0 . -44) (undo-tree-id1 . -8) (undo-tree-id2 . -8) (undo-tree-id3 . -8) (undo-tree-id4 . -8) (undo-tree-id5 . -8) (undo-tree-id6 . -11) (undo-tree-id7 . -11) (undo-tree-id8 . -7) (undo-tree-id9 . -11) (undo-tree-id10 . -11) (undo-tree-id11 . -44) (undo-tree-id12 . -44) (undo-tree-id13 . -7) (undo-tree-id14 . -44) (undo-tree-id15 . -44) 246) ((202 . 246)) (26344 28010 240963 0) 0 nil])
+([nil nil (("yes" . 152) (undo-tree-id40 . -3) 155) nil (26344 28014 508367 0) 0 nil])
+nil
+([nil nil ((152 . 154)) nil (26344 28014 508356 0) 0 nil])
+([nil current (("#ins_logo: \"./bits-logo.png\"
+" . -98) (undo-tree-id72 . -29) (undo-tree-id73 . -6) (undo-tree-id74 . -6) (undo-tree-id75 . -6) (undo-tree-id76 . -6) (undo-tree-id77 . -6) (undo-tree-id78 . -9) (undo-tree-id79 . -9) (undo-tree-id80 . -5) (undo-tree-id81 . -9) (undo-tree-id82 . -9) (undo-tree-id83 . -5) (undo-tree-id84 . -29) (undo-tree-id85 . -29) 127 (t 26344 28014 588722 147000)) nil (26344 28026 755240 0) 0 nil])
+nil

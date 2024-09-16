@@ -1,15 +1,12 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+title: Stanislao Zompì
+url: "https://stanislao92.github.io"
+baseurl: "/home"
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
-footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer: no
 
 sass:
     style: compressed
@@ -17,8 +14,8 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+   link: "/home/"
+ - name: "CV"
+   link: "cvzompi.pdf"
+ - name: "Research"
+   link: "research"
