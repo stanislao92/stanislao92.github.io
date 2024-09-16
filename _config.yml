@@ -1,6 +1,6 @@
 title: Stanislao Zompì
 url: "https://stanislao92.github.io"
-baseurl: "/home"
+baseurl: "/researcher"
 
 markdown: kramdown
 
@@ -14,7 +14,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/home/"
+   link: "/researcher/"
  - name: "CV"
    link: "cvzompi.pdf"
  - name: "Research"
