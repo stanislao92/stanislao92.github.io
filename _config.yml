@@ -1,5 +1,6 @@
 title: Stanislao Zompì
 url: "https://stanislao92.github.io"
+baseurl: "/home"
 theme: jekyll-theme-minimal
 
 markdown: kramdown
@@ -14,7 +15,7 @@ sass:
 
 nav:
  - name: "About"
-   link: ""
+   link: "home"
  - name: "CV"
    link: "cvzompi.pdf"
  - name: "Research"
