@@ -18,6 +18,6 @@ It's pronounced [stanizˈlao dzomˈpi] and spelled with a grave accent on the fi
 
 ## Updates
 
-* I will be at [NELS 55](https://campuspress.yale.edu/nels55/) in October to present [Luke Adamson](https://lukejamesadamson.wixsite.com/linguistics)'s and my joint work on the PCC and polite pronouns.
+* In November, I presented [Zhouyi Sun](https://linguistics.mit.edu/user/szy/)'s and my joint work about (\*)ABA effects in multidimensional paradigms at the [CYCLOPS colloquium]{https://www.philol.uni-leipzig.de/en/institute-of-linguistics/institute/event-information/event/cyclops-colloquium} of the University of Leipzig.
 
-* [Zhouyi Sun](https://linguistics.mit.edu/user/szy/) and I were at [WCCFL 42](https://www.wccfl42.com/home) to present our joint work about (\*)ABA effects in multidimensional paradigms.
+* In October, I was at [NELS 55](https://campuspress.yale.edu/nels55/) to present [Luke James Adamson](https://lukejamesadamson.wixsite.com/linguistics)'s and my joint work on the PCC and polite pronouns. Our manuscript is now available [here]{https://ling.auf.net/lingbuzz/008552}!
