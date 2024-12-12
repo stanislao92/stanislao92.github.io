@@ -22,6 +22,6 @@ layout: default
 
 ## Other
 
-* [“Distinctness effects in English nominals.”](https://drive.google.com/file/d/1rcffJCbzMjJymAtxZZY1bS2dD3jANwew/view) Ms., MIT.
+* [“Distinctness effects in English nominals.”](https://drive.google.com/file/d/1b3TMeVXGrmzJaKrr_lggyiLuQ3I2PitT/view) Ms., MIT.
  
 * [*Case decomposition meets dependent-case theories*](https://ling.auf.net/lingbuzz/003421/). MA thesis, University of Pisa. 2017.
