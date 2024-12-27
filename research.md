@@ -11,9 +11,9 @@ layout: default
 
 ## Journal articles
 
-* [“A principled exception to the Müller-Takano generalization.”](https://www.glossa-journal.org/article/id/6404/) *Glossa* 9(1). 2024.
-
 * [With [Tanya Bondarenko](https://linguistics.fas.harvard.edu/people/tatiana-bondarenko)] [“Leftover Agreement.”](https://ling.auf.net/lingbuzz/006215) Accepted by *Natural Language and Linguistic Theory*.
+
+* [“A principled exception to the Müller-Takano generalization.”](https://www.glossa-journal.org/article/id/6404/) *Glossa* 9(1). 2024.
 
 * [With Christos  Christopoulos] [“Taking the nominative (back) out of the accusative: Case features and the distribution of stems in Indo-European paradigms.”](https://link.springer.com/article/10.1007/s11049-022-09557-y) *Natural Language and Linguistic Theory* 41: 879–909. 2023. 
 
