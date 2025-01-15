@@ -22,6 +22,8 @@ layout: default
 
 ## Other
 
+* [With [Enrico Flor](https://eflor.net/)][“CSC-violating head movement in English conditional inversion.”](https://ling.auf.net/lingbuzz/005853) Ms., MIT.
+
 * [“Distinctness effects in English nominals.”](https://drive.google.com/file/d/1b3TMeVXGrmzJaKrr_lggyiLuQ3I2PitT/view) Ms., MIT.
  
 * [*Case decomposition meets dependent-case theories*](https://ling.auf.net/lingbuzz/003421/). MA thesis, University of Pisa. 2017.
