@@ -20,6 +20,8 @@ It's pronounced [stanizˈlao dzomˈpi] and spelled with a grave accent on the fi
 
 * In April 2025, I will be presenting [Zhouyi Sun](https://linguistics.mit.edu/user/szy/)'s and my joint work about (\*)ABA effects in multidimensional paradigms at  the [Stony Brook University linguistics](https://linguistics.stonybrook.edu/) colloquium.
 
+* In April 2025, [Tanya Bondarenko](https://linguistics.fas.harvard.edu/people/tatiana-bondarenko)] and I published an [_NLLT_ article](https://link.springer.com/article/10.1007/s11049-024-09631-7) about agreement morphosyntax in South Caucasian languages.
+
 * In December 2024, I published a [_Glossa_ paper](https://www.glossa-journal.org/article/id/6404/) about remnant _wh_-movement in Bulgarian.
 
 * In October 2024, I was at [NELS 55](https://campuspress.yale.edu/nels55/) to present [Luke James Adamson](https://lukejamesadamson.wixsite.com/linguistics)'s and my joint work on the PCC and polite pronouns. Our manuscript is now available [here](https://ling.auf.net/lingbuzz/008552)!
