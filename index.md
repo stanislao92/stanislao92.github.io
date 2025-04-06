@@ -18,7 +18,7 @@ It's pronounced [stanizˈlao dzomˈpi] and spelled with a grave accent on the fi
 
 ## Updates
 
-* In July-August 2025, I'll be teaching at [EGG](https://www.eggschool.org/).
+* In July-August 2025, I'll be teaching at the [EGG](https://www.eggschool.org/)!
 
 * In April 2025, I presented [Zhouyi Sun](https://linguistics.mit.edu/user/szy/)'s and my joint work about (\*)ABA effects in multidimensional paradigms at  the [Stony Brook University linguistics](https://linguistics.stonybrook.edu/) colloquium.
 
