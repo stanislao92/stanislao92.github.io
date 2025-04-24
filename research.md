@@ -11,6 +11,8 @@ layout: default
 
 ## Journal articles
 
+* [With [Luke James Adamson](https://lukejamesadamson.wixsite.com/linguistics)] [“Polite pronouns and the PCC.”](https://ling.auf.net/lingbuzz/008552) Accepted with minor revisions by *Linguistic Inquiry*. 2025.
+
 * [With [Tanya Bondarenko](https://linguistics.fas.harvard.edu/people/tatiana-bondarenko)] [“Leftover Agreement.”](https://link.springer.com/article/10.1007/s11049-024-09631-7) *Natural Language and Linguistic Theory*, online early. 2025.
 
 * [“A principled exception to the Müller-Takano generalization.”](https://www.glossa-journal.org/article/id/6404/) *Glossa* 9(1). 2024.
