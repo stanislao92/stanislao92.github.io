@@ -20,9 +20,9 @@ It's pronounced [stanizˈlao dzomˈpi] and spelled with a grave accent on the fi
 
 * In July-August 2025, I'll be teaching at the [EGG](https://www.eggschool.org/)!
 
-* In April 2025, [Luke James Adamson](https://lukejamesadamson.wixsite.com/linguistics)'s and my joint manuscript on the PCC and polite pronouns (available [here](https://ling.auf.net/lingbuzz/008552)) was accepted with minor revisions by _Linguistic Inquiry_.
+* In July 2025,  [Zhouyi Sun](https://linguistics.mit.edu/user/szy/) and I will be presenting our joint work on  (\*)ABA effects in multidimensional paradigms at [DM meets Nano](https://dmmeetsnano.univie.ac.at/) in Vienna.
 
-* In April 2025, I presented [Zhouyi Sun](https://linguistics.mit.edu/user/szy/)'s and my joint work about (\*)ABA effects in multidimensional paradigms at  the [Stony Brook University linguistics](https://linguistics.stonybrook.edu/) colloquium.
+* In April 2025, [Luke James Adamson](https://lukejamesadamson.wixsite.com/linguistics)'s and my joint manuscript on the PCC and polite pronouns (available [here](https://ling.auf.net/lingbuzz/008552)) was accepted with minor revisions by _Linguistic Inquiry_.
 
 * In April 2025, [Tanya Bondarenko](https://linguistics.fas.harvard.edu/people/tatiana-bondarenko) and I published an _NLLT_ article about agreement morphosyntax in South Caucasian languages.  It is available in open access [here](https://link.springer.com/article/10.1007/s11049-024-09631-7).
 
