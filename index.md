@@ -14,7 +14,7 @@ My main research interests are in syntax and morphology⁠.
 
 ## My name
 
-It's pronounced [stanizˈlao dzomˈpi] and spelled with a grave accent on the final *i*. (I myself have been inconsistent in this regard; now I'm trying to fix that.)  Unless we first met years ago in Italy, I'll probably ask you to call me Stan.
+My full name is pronounced [stanizˈlao dzomˈpi] and spelled with a grave accent on the final *i*. (I myself have been inconsistent in this regard; now I'm trying to fix that.) In English-speaking contexts, I usually go by Stan.
 
 ## Updates
 
