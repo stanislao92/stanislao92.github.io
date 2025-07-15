@@ -12,6 +12,10 @@ I got my PhD from [MIT](https://linguistics.mit.edu/) in 2023.
 
 My main research interests are in syntax and morphology⁠.
 
+## Contact
+
+zompi [at] mit.edu 
+
 ## My name
 
 My full name is pronounced [stanizˈlao dzomˈpi] and spelled with a grave accent on the final *i*. (I myself have been inconsistent in this regard; now I'm trying to fix that.) In English-speaking contexts, I usually go by Stan.
@@ -20,7 +24,7 @@ My full name is pronounced [stanizˈlao dzomˈpi] and spelled with a grave accen
 
 * In July-August 2025, I'll be teaching at the [EGG](https://www.eggschool.org/)!
 
-* In July 2025,  [Zhouyi Sun](https://linguistics.mit.edu/user/szy/) and I will be presenting our joint work on  (\*)ABA effects in multidimensional paradigms at [DM meets Nano](https://dmmeetsnano.univie.ac.at/) in Vienna.
+* In July 2025,  [Zhouyi Sun](https://linguistics.mit.edu/user/szy/) and I will be presenting our joint work on  (\*)ABA effects in multidimensional paradigms at [DM meets Nano](https://dmmeetsnano.univie.ac.at/) in Vienna. Our handout is available [here](https://drive.google.com/file/d/1EtrbY3wQ7N1eoDhbHSOmU6M7S-yLo_ft/view).
 
 * In April 2025, [Luke James Adamson](https://lukejamesadamson.wixsite.com/linguistics)'s and my joint manuscript on polite pronouns and the PCC (available [here](https://ling.auf.net/lingbuzz/008552)) was accepted with minor revisions by _Linguistic Inquiry_.
 
