@@ -14,7 +14,7 @@ My main research interests are in syntax and morphology⁠.
 
 ## Contact
 
-zompi [at] mit.edu 
+zompi [at] uni-potsdam.de 
 
 ## My name
 
