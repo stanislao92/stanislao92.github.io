@@ -22,7 +22,7 @@ My full name is pronounced [stanizˈlao dzomˈpi] and spelled with a grave accen
 
 ## Updates
 
-* In July-August 2025, I'll be teaching at the [EGG](https://www.eggschool.org/)!  My first handout is available [here](https://tinyurl.com/egg-aba-1)
+* In July-August 2025, I'll be teaching at the [EGG](https://www.eggschool.org/)!  My first handout is available [here](https://tinyurl.com/egg-aba-1).
 
 * In July 2025,  [Zhouyi Sun](https://linguistics.mit.edu/user/szy/) and I will be presenting our joint work on  (\*)ABA effects in multidimensional paradigms at [DM meets Nano](https://dmmeetsnano.univie.ac.at/) in Vienna. 
 
