@@ -22,9 +22,9 @@ My full name is pronounced [stanizˈlao dzomˈpi] and spelled with a grave accen
 
 ## Updates
 
-* In July-August 2025, I'll be teaching at the [EGG](https://www.eggschool.org/)!
+* In July-August 2025, I'll be teaching at the [EGG](https://www.eggschool.org/)!  My first handout is available [here](https://tinyurl.com/egg-aba-1)
 
-* In July 2025,  [Zhouyi Sun](https://linguistics.mit.edu/user/szy/) and I will be presenting our joint work on  (\*)ABA effects in multidimensional paradigms at [DM meets Nano](https://dmmeetsnano.univie.ac.at/) in Vienna. Our handout is available [here](https://drive.google.com/file/d/1EtrbY3wQ7N1eoDhbHSOmU6M7S-yLo_ft/view).
+* In July 2025,  [Zhouyi Sun](https://linguistics.mit.edu/user/szy/) and I will be presenting our joint work on  (\*)ABA effects in multidimensional paradigms at [DM meets Nano](https://dmmeetsnano.univie.ac.at/) in Vienna. 
 
 * In April 2025, [Luke James Adamson](https://lukejamesadamson.wixsite.com/linguistics)'s and my joint manuscript on polite pronouns and the PCC (available [here](https://ling.auf.net/lingbuzz/008552)) was accepted with minor revisions by _Linguistic Inquiry_.
 
