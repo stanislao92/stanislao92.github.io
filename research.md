@@ -14,7 +14,7 @@ title: Research
 
 * [With [Luke James Adamson](https://lukejamesadamson.wixsite.com/linguistics)] [“Polite pronouns and the PCC.”](https://ling.auf.net/lingbuzz/008552) Accepted with minor revisions by *Linguistic Inquiry*. 2025.
 
-* [With [Tanya Bondarenko](https://linguistics.fas.harvard.edu/people/tatiana-bondarenko)] [“Leftover Agreement.”](https://link.springer.com/article/10.1007/s11049-024-09631-7) *Natural Language and Linguistic Theory*, online early. 2025.
+* [With [Tanya Bondarenko](https://linguistics.fas.harvard.edu/people/tatiana-bondarenko)] [“Leftover Agreement.”](https://link.springer.com/article/10.1007/s11049-024-09631-7) *Natural Language and Linguistic Theory* 43: 1183–1237. 2025.
 
 * [“A principled exception to the Müller-Takano generalization.”](https://www.glossa-journal.org/article/id/6404/) *Glossa* 9(1). 2024.
 
@@ -34,6 +34,7 @@ title: Research
 
 ## Handouts
 
-* [Based on joint work with [Zhouyi Sun](https://linguistics.mit.edu/user/szy/)] [“From monotonicity to output-drivenness:Evidence from multidimensional (*)ABA patterns.”](https://drive.google.com/file/d/1BgaVj734InODZ0wk1c7uUsJkKFwGRaEK/view?usp=sharing) Colloquium talk at the Department of Linguistics of Stony Brook University.
+* [Based on joint work with [Zhouyi Sun](https://linguistics.mit.edu/user/szy/)] [“From monotonicity to output-drivenness:
+Evidence from multidimensional (*)ABA patterns.”](https://drive.google.com/file/d/1BgaVj734InODZ0wk1c7uUsJkKFwGRaEK/view?usp=sharing) Colloquium talk at the Department of Linguistics of Stony Brook University.
 
 * [“On some interactions between verb movement and clitic ordering.”](https://drive.google.com/file/d/1JX0Q4o6eHMN7H-FkVEaNYcQb6G4BbVDz/view) Talk given at the Institut für Romanistik of the University of Hamburg.
