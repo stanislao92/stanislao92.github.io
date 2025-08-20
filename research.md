@@ -34,6 +34,6 @@ title: Research
 
 ## Handouts
 
-* [Based on joint work with [Zhouyi Sun](https://linguistics.mit.edu/user/szy/)] [“(*)ABA effects and their theoretical implications.”](https://drive.google.com/drive/folders/1J4ZuT98mKd6v5UmUoCOSeZNDdj5WlgT3) Handouts of the seminar I taught at the latest [EGG](https://www.eggschool.org/).
+* [Partly drawing on joint work with [Zhouyi Sun](https://linguistics.mit.edu/user/szy/)] [“(*)ABA effects and their theoretical implications.”](https://drive.google.com/drive/folders/1J4ZuT98mKd6v5UmUoCOSeZNDdj5WlgT3) Handouts of the seminar I taught at the latest [EGG](https://www.eggschool.org/).
 
 * [“On some interactions between verb movement and clitic ordering.”](https://drive.google.com/file/d/1JX0Q4o6eHMN7H-FkVEaNYcQb6G4BbVDz/view) Talk given at the Institut für Romanistik of the University of Hamburg.
