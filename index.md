@@ -22,11 +22,11 @@ My full name is pronounced [stanizˈlao dzomˈpi] and spelled with a grave accen
 
 ## Updates
 
-* In July-August 2025, I taught at the [EGG](https://www.eggschool.org/)!  The handouts for my seminar are freely available [here](https://drive.google.com/drive/folders/1J4ZuT98mKd6v5UmUoCOSeZNDdj5WlgT3).
+* In September 2025, [Luke James Adamson](https://lukejamesadamson.wixsite.com/linguistics)'s and my joint manuscript on polite pronouns and the PCC (available [here](https://ling.auf.net/lingbuzz/008552)) was accepted by _Linguistic Inquiry_.
 
-* In July 2025,  [Zhouyi Sun](https://linguistics.mit.edu/user/szy/) and I presented our joint work on  (\*)ABA effects in multidimensional paradigms at [DM meets Nano](https://dmmeetsnano.univie.ac.at/) in Vienna. 
+* In July–August 2025, I taught at the [EGG](https://www.eggschool.org/).  The handouts for my seminar (which draws heavily on my joint work with [Zhouyi Sun](https://linguistics.mit.edu/user/szy/)) are available [here](https://drive.google.com/drive/folders/1J4ZuT98mKd6v5UmUoCOSeZNDdj5WlgT3).
 
-* In April 2025, [Luke James Adamson](https://lukejamesadamson.wixsite.com/linguistics)'s and my joint manuscript on polite pronouns and the PCC (available [here](https://ling.auf.net/lingbuzz/008552)) was accepted with minor revisions by _Linguistic Inquiry_.
+* In July 2025, [Zhouyi Sun](https://linguistics.mit.edu/user/szy/) and I presented our joint work on  (\*)ABA effects in multidimensional paradigms at [DM meets Nano](https://dmmeetsnano.univie.ac.at/) in Vienna. 
 
 * In April 2025, [Tanya Bondarenko](https://linguistics.fas.harvard.edu/people/tatiana-bondarenko) and I published an _NLLT_ article about the morphosyntax of agreement in South Caucasian languages.  It is available in open access [here](https://link.springer.com/article/10.1007/s11049-024-09631-7).
 
