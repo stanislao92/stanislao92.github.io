@@ -12,7 +12,7 @@ title: Research
 
 ## Journal articles
 
-* [With [Luke James Adamson](https://lukejamesadamson.wixsite.com/linguistics)] [“Polite pronouns and the PCC.”](https://ling.auf.net/lingbuzz/008552) To appear in *Linguistic Inquiry*. 2025.
+* [With [Luke James Adamson](https://lukejamesadamson.wixsite.com/linguistics)] [“Polite pronouns and the PCC.”](https://direct.mit.edu/ling/article/doi/10.1162/LING.a.540) *Linguistic Inquiry*, online early. 2025.
 
 * [With [Tanya Bondarenko](https://linguistics.fas.harvard.edu/people/tatiana-bondarenko)] [“Leftover Agreement.”](https://link.springer.com/article/10.1007/s11049-024-09631-7) *Natural Language and Linguistic Theory* 43: 1183–1237. 2025.
 

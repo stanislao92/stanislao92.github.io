@@ -22,7 +22,7 @@ My full name is pronounced [stanizˈlao dzomˈpi] and spelled with a grave accen
 
 ## Updates
 
-* In September 2025, [Luke James Adamson](https://lukejamesadamson.wixsite.com/linguistics)'s and my joint manuscript on polite pronouns and the PCC (available [here](https://ling.auf.net/lingbuzz/008552)) was accepted by _Linguistic Inquiry_.
+* In September 2025, [Luke James Adamson](https://lukejamesadamson.wixsite.com/linguistics) and I had our paper on polite pronouns and the PCC accepted by _Linguistic Inquiry_. The online-early version is available in open access [here](https://direct.mit.edu/ling/article/doi/10.1162/LING.a.540).
 
 * In July–August 2025, I taught at the [EGG](https://www.eggschool.org/).  The handouts for my seminar (which drew heavily on my joint work with [Zhouyi Sun](https://linguistics.mit.edu/user/szy/)) are available [here](https://drive.google.com/drive/folders/1J4ZuT98mKd6v5UmUoCOSeZNDdj5WlgT3).
 
