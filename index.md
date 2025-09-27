@@ -24,7 +24,7 @@ My full name is pronounced [stanizˈlao dzomˈpi] and spelled with a grave accen
 
 * In September 2025, a paper I co-authored with [Luke James Adamson](https://lukejamesadamson.wixsite.com/linguistics), "Polite pronouns and the PCC," was accepted by _Linguistic Inquiry_. The online-early version is available in open access [here](https://direct.mit.edu/ling/article/doi/10.1162/LING.a.540).
 
-* In the summer of 2025, I taught at the [EGG](https://www.eggschool.org/).  The handouts for my seminar on \*ABA effects, partly based on my joint work with [Zhouyi Sun](https://linguistics.mit.edu/user/szy/), are available [here](https://drive.google.com/drive/folders/1J4ZuT98mKd6v5UmUoCOSeZNDdj5WlgT3). Zhouyi and I also presented some of our joint work at [DM meets Nano](https://dmmeetsnano.univie.ac.at/) in Vienna in mid-July.
+* In the summer of 2025, I taught at the [EGG](https://www.eggschool.org/).  The handouts for my seminar on \*ABA effects, partly based on joint work with [Zhouyi Sun](https://linguistics.mit.edu/user/szy/), are available [here](https://drive.google.com/drive/folders/1J4ZuT98mKd6v5UmUoCOSeZNDdj5WlgT3). Zhouyi and I also presented some of our joint work at [DM meets Nano](https://dmmeetsnano.univie.ac.at/) in Vienna in July.
 
 * In April 2025, [Tanya Bondarenko](https://linguistics.fas.harvard.edu/people/tatiana-bondarenko) and I published an _NLLT_ article about the morphosyntax of agreement in South Caucasian languages.  It is available in open access [here](https://link.springer.com/article/10.1007/s11049-024-09631-7).
 
