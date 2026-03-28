@@ -22,7 +22,7 @@ My full name is pronounced [stanizˈlao dzomˈpi] and spelled with a grave accen
 
 ## Updates
 
-* On March 25, 2026, I'm giving a talk at the [Department of Linguistics of Queen Mary University of London](https://www.qmul.ac.uk/sllf/linguistics/) as part of their Guest Speaker Seminar Series.
+* On March 25, 2026, I gave a talk at the [Department of Linguistics of Queen Mary University of London](https://www.qmul.ac.uk/sllf/linguistics/) as part of their Guest Speaker Seminar Series.
 
 * On February 9–10, 2026, I took part in the [Workshop on Phi and Markedness](https://www.leibniz-zas.de/de/das-zas/veranstaltungen/details/events/phi-markedness-workshop) organized by [Nina Haslinger](http://www.ninahaslinger.net/) and [Uli Sauerland](https://www.leibniz-zas.de/de/personen/details/sauerland-uli/uli-sauerland) at the [Leibniz-Zentrum Allgemeine Sprachwissenschaft](https://www.leibniz-zas.de/en/).
 
