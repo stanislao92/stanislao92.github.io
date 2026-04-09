@@ -22,14 +22,12 @@ My full name is pronounced [stanizˈlao dzomˈpi] and spelled with a grave accen
 
 ## Updates
 
-* On March 25, 2026, I gave a talk at the [Department of Linguistics of Queen Mary University of London](https://www.qmul.ac.uk/sllf/linguistics/) as part of their Guest Speaker Seminar Series.
+* In August 2026, I'll be teaching Introduction to Syntax at the next [DGfS Summer School](https://www.uni-bielefeld.de/sfb/sfb1646/veranstaltungen/summer-school-2026/) at the University of Bielefeld.
+
+* On March 25, 2026, I gave a talk on nominal-internal Distinctness effects at the [Department of Linguistics of Queen Mary University of London](https://www.qmul.ac.uk/sllf/linguistics/) as part of their Guest Speaker Seminar Series.
 
 * On February 9–10, 2026, I took part in the [Workshop on Phi and Markedness](https://www.leibniz-zas.de/de/das-zas/veranstaltungen/details/events/phi-markedness-workshop) organized by [Nina Haslinger](http://www.ninahaslinger.net/) and [Uli Sauerland](https://www.leibniz-zas.de/de/personen/details/sauerland-uli/uli-sauerland) at the [Leibniz-Zentrum Allgemeine Sprachwissenschaft](https://www.leibniz-zas.de/en/).
-
-* In January 2026, I taught Foundations of Syntax at the 11th [V-NYI](https://nyispb.org/).
 
 * In September 2025, a paper I co-authored with [Luke James Adamson](https://lukejamesadamson.wixsite.com/linguistics), "Polite pronouns and the PCC," was accepted by _Linguistic Inquiry_. The online-early version is available in open access [here](https://direct.mit.edu/ling/article/doi/10.1162/LING.a.540).
 
 * In July–August 2025, I taught at the [EGG](https://www.eggschool.org/).  The handouts for my seminar on \*ABA effects, partly based on joint work with [Zhouyi Sun](https://linguistics.mit.edu/user/szy/), are available [here](https://drive.google.com/drive/folders/1J4ZuT98mKd6v5UmUoCOSeZNDdj5WlgT3). Zhouyi and I also presented some of our joint work at [DM meets Nano](https://dmmeetsnano.univie.ac.at/) in Vienna in July.
-
-* In April 2025, [Tanya Bondarenko](https://linguistics.fas.harvard.edu/people/tatiana-bondarenko) and I published an _NLLT_ article about the morphosyntax of agreement in South Caucasian languages.  It is available in open access [here](https://link.springer.com/article/10.1007/s11049-024-09631-7).
