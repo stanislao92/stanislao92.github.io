@@ -24,7 +24,7 @@ My full name is pronounced [stanizˈlao dzomˈpi] and spelled with a grave accen
 
 * In August 2026, I'll be teaching Introduction to Syntax at the next [DGfS Summer School](https://www.uni-bielefeld.de/sfb/sfb1646/veranstaltungen/summer-school-2026/) at the University of Bielefeld.
 
-* On May 20, 2026, I'm giving a talk on the typology of pied-piping and secondary _wh_-movement as part of the [LinG/RTG2636 Colloquium series](https://www.uni-goettingen.de/de/colloquium+series/447513.html) at the University of Göttingen.
+* On May 20, 2026, I'm giving a talk on the typology of pied-piping and secondary _wh_-movement as part of the [LinG/RTG2636 Colloquium series at the University of Göttingen](https://www.uni-goettingen.de/de/colloquium+series/447513.html).
 
 * On March 25, 2026, I gave a talk on nominal-internal Distinctness effects at the Department of Linguistics of Queen Mary University of London as part of their Guest Speaker Seminar Series.
 
