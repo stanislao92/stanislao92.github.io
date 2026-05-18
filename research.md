@@ -18,7 +18,7 @@ title: Research
 
 * [“A principled exception to the Müller-Takano generalization.”](https://www.glossa-journal.org/article/id/6404/) *Glossa* 9(1). 2024.
 
-* [With [Christos  Christopoulos](https://www.muni.cz/en/people/255200-christos-christopoulos)] [“Taking the nominative (back) out of the accusative: Case features and the distribution of stems in Indo-European paradigms.”](https://link.springer.com/article/10.1007/s11049-022-09557-y) *Natural Language and Linguistic Theory* 41: 879–909. 2022. 
+* [With [Christos  Christopoulos](https://www.muni.cz/en/people/255200-christos-christopoulos)] [“Taking the nominative (back) out of the accusative: Case features and the distribution of stems in Indo-European paradigms.”](https://link.springer.com/article/10.1007/s11049-022-09557-y) *Natural Language and Linguistic Theory* 41: 879–909. 2023. 
 
 * [“Ergative is not inherent: Evidence from \*ABA in suppletion and syncretism.”](https://www.glossa-journal.org/article/id/5180/) *Glossa* 4(1). 2019. 
 
