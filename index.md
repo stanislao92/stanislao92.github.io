@@ -24,7 +24,7 @@ My full name is pronounced [stanizˈlao dzomˈpi] and spelled with a grave accen
 
 * In September 2026, I'll be giving a talk about case as a feature-gluttony repair in certain Italian copular clauses, at the [Syntax of Nominal Copular Clauses Conference](https://wwwhomes.uni-bielefeld.de/jhartmann25/cgi/syncop/syncc/index.php) at the University of Bielefeld.
 
-* In August 2026, I'll be teaching Introduction to Syntax at the next [DGfS Summer School](https://www.uni-bielefeld.de/sfb/sfb1646/veranstaltungen/summer-school-2026/) at the University of Bielefeld.
+* In August 2026, I taught Introduction to Syntax at the [DGfS Summer School](https://www.uni-bielefeld.de/sfb/sfb1646/veranstaltungen/summer-school-2026/) hosted by the University of Bielefeld.
 
 * On May 20, 2026, I gave a talk on the typology of pied-piping and secondary _wh_-movement as part of the [LinG/RTG2636 Colloquium series at the University of Göttingen](https://www.uni-goettingen.de/de/colloquium+series/447513.html).
 
