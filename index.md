@@ -22,7 +22,7 @@ My full name is pronounced [stanizˈlao dzomˈpi] and spelled with a grave accen
 
 ## Updates
 
-* In September 2026, I'll be giving a talk about case as a feature-gluttony repair in certain Italian copular clauses, at the [Syntax of Nominal Copular Clauses Conference](https://wwwhomes.uni-bielefeld.de/jhartmann25/cgi/syncop/syncc/index.php) at the University of Bielefeld.
+* In September 2026, I gave a talk about case as a feature-gluttony repair in certain Italian copular clauses, at the [Syntax of Nominal Copular Clauses Conference](https://wwwhomes.uni-bielefeld.de/jhartmann25/cgi/syncop/syncc/index.php) at the University of Bielefeld.
 
 * In August 2026, I taught Introduction to Syntax at the [DGfS Summer School](https://www.uni-bielefeld.de/sfb/sfb1646/veranstaltungen/summer-school-2026/) hosted by the University of Bielefeld.
 
@@ -31,5 +31,3 @@ My full name is pronounced [stanizˈlao dzomˈpi] and spelled with a grave accen
 * On March 25, 2026, I gave a talk on nominal-internal Distinctness effects at the Department of Linguistics of Queen Mary University of London as part of their Guest Speaker Seminar Series.
 
 * In September 2025, a paper I co-authored with [Luke James Adamson](https://lukejamesadamson.wixsite.com/linguistics), "Polite pronouns and the PCC," was accepted by _Linguistic Inquiry_. The online-early version is available in open access [here](https://direct.mit.edu/ling/article/doi/10.1162/LING.a.540).
-
-* In July–August 2025, I taught at the EGG.  The handouts for my seminar on \*ABA effects, partly based on joint work with [Zhouyi Sun](https://linguistics.mit.edu/user/szy/), are available [here](https://drive.google.com/drive/folders/1J4ZuT98mKd6v5UmUoCOSeZNDdj5WlgT3). Zhouyi and I also presented some of our joint work at [DM meets Nano](https://dmmeetsnano.univie.ac.at/) in Vienna in July.
